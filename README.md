@@ -16,8 +16,8 @@ To run the client, execute the Client.java file. The client connects to the serv
 
 
 java Client.java
-Instructions
-![linkdin multiThread1](https://github.com/Harshmhajn/MultiThreadedWebServer/assets/123082086/c333e44f-bde1-41c5-b7eb-7b1b1db75788)
+Instructions![the or MultiThreas](https://github.com/Harshmhajn/MultiThreadedWebServer/assets/123082086/e2cb6eac-34a0-4f90-8c6e-4dd3f1f83554)
+
 ![linkdin multiThread2](https://github.com/Harshmhajn/MultiThreadedWebServer/assets/123082086/870d6a91-a145-4280-b017-a56ee30bf088)
 
 
